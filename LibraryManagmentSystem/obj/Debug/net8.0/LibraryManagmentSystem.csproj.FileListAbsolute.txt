@@ -1,0 +1,14 @@
+E:\mohamed\platform\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\mohamed\platform\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.AssemblyInfoInputs.cache
+E:\mohamed\platform\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.AssemblyInfo.cs
+E:\mohamed\platform\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.csproj.CoreCompileInputs.cache
+E:\mohamed\platform\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\net8.0\LibraryManagmentSystem.exe
+E:\mohamed\platform\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\net8.0\LibraryManagmentSystem.deps.json
+E:\mohamed\platform\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\net8.0\LibraryManagmentSystem.runtimeconfig.json
+E:\mohamed\platform\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\net8.0\LibraryManagmentSystem.dll
+E:\mohamed\platform\LibraryManagmentSystem\LibraryManagmentSystem\bin\Debug\net8.0\LibraryManagmentSystem.pdb
+E:\mohamed\platform\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.dll
+E:\mohamed\platform\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net8.0\refint\LibraryManagmentSystem.dll
+E:\mohamed\platform\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.pdb
+E:\mohamed\platform\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net8.0\LibraryManagmentSystem.genruntimeconfig.cache
+E:\mohamed\platform\LibraryManagmentSystem\LibraryManagmentSystem\obj\Debug\net8.0\ref\LibraryManagmentSystem.dll
