@@ -17,22 +17,4 @@ C# (OOP): Core logic using classes and objects.
 
 No Database: All data is stored in memory (e.g. List<T> or similar structures).
 
-Console Application: Simple text-based interface.
-
-📦 Project Structure
-pgsql
-Copy
-Edit
-/LibraryManagement
-│
-├── Program.cs           
-├── Book.cs              
-├── Member.cs           
-├── Transaction.cs      
-└── Library.cs         
-🚀 How to Run
-Clone or download the repository.
-
-Open the solution (.sln file) in Visual Studio (or any C# IDE).
-
-Build and run the project (F5).
+Console Application: Simple text-based interface
