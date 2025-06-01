@@ -14,15 +14,9 @@ Reports: Basic console reports of available and issued books.
 
 🛠️ Technologies Used
 C# (OOP): Core logic using classes and objects.
-
-No Database: All data is stored in memory (e.g. List<T> or similar structures).
-
 Console Application: Simple text-based interface.
 
 📦 Project Structure
-pgsql
-Copy
-Edit
 /LibraryManagement
 │
 ├── Program.cs           // Entry point
@@ -30,6 +24,8 @@ Edit
 ├── Member.cs            // Member class with properties like Id, Name, Email, etc.
 ├── Transaction.cs       // Class to handle issuing and returning books
 └── Library.cs           // Class managing the core logic (e.g. lists of books/members)
+
+
 🚀 How to Run
 Clone or download the repository.
 
